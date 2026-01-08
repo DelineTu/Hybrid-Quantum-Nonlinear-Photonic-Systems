@@ -1,4 +1,4 @@
-# Selected Research Projects in Experimental and Computational Photonics
+# Selected Research Portfolio in Experimental and Computational Photonics
 ### Hua Tu
 #### Reader's Guide
 
