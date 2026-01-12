@@ -6,7 +6,7 @@ This document presents my three selected research projects in **hybrid quantum s
 photonics, and electro-optical engineering**, unified by a **system-level philosophy** that tightly
 integrates optical dynamics, electronic interfaces, and control or learning algorithms.
 
-**Part I** investigates chip-scale quantum noise detection through **shot-noise-limited balanced homodyne detection for thin-film lithium niobate (TFLN) squeezing experiments**. I
+**Part I** investigates chip-scale quantum noise detection through **shot-noise-limited balanced homodyne detection for thin-film lithium niobate (TFLN) squeezing experiments**, which achieved a **shot-noise clearance ratio of 19.6 dB**, and a **CMRR of 26 dB** using co-design of optical coupling and **RF high-speed circuits**. I
 identified optical coupling, not electronic noise, as the dominant bottleneck and addressed it
 through co-designed fiber-to-chip edge couplers, free-space mode matching, wideband RF
 readout electronics, and common-mode rejection techniques to achieve shot-noise-limited
@@ -19,8 +19,8 @@ constraint-aware optimization. Using this approach, I demonstrated 85% accuracy 
 recognition task, validating end-to-end trainable nonlinear optics.
 
 **Part III** addresses **state-dependent dynamic control in precision photonic systems, using
-microwave-to-optical (M2O) transduction** as a case study. I diagnosed repeated **Pound Drever Hall (PDH)** lock-unlock failures in **multi-cavity filter** chains as control-path mismatches. I combined hardware
-and software, enabling robust, repeatable dynamic pump filtering. This capability is essential
+microwave-to-optical (M2O) transduction** as a case study. I diagnosed repeated **Pound Drever Hall (PDH)** lock-unlock failures in **multi-cavity filter** chains as control-path mismatches. I combined **hardware
+and software co-design**, enabling robust, repeatable dynamic pump filtering. This capability is essential
 for future single-photon-level quantum transduction.
 
 Each part is self-contained and can be read independently.
