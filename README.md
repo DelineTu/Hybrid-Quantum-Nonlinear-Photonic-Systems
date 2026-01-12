@@ -2,8 +2,8 @@
 ### Hua Tu
 #### Reader's Guide
 
-This document presents three research projects in **hybrid quantum systems, nonlinear
-photonics, and electro-optical engineering**, unified by a system-level philosophy that tightly
+This document presents my three selected research projects in **hybrid quantum systems, nonlinear
+photonics, and electro-optical engineering**, unified by a **system-level philosophy** that tightly
 integrates optical dynamics, electronic interfaces, and control or learning algorithms.
 
 **Part I** investigates chip-scale quantum noise detection through **shot-noise-limited balanced homodyne detection for thin-film lithium niobate (TFLN) squeezing experiments**. I
