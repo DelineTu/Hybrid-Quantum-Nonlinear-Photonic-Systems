@@ -1,4 +1,4 @@
-# Selected Research Portfolio in Experimental and Computational Photonics
+# Integrated Photonics for Quantum and Neuromorphic Systems: Co-Design of Hardware, Control, and Learning Algorithms
 ### Hua Tu
 #### Reader's Guide
 
